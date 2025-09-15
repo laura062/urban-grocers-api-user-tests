@@ -17,9 +17,9 @@
 
 # Estructura del Proyecto:
 - tests.py: Contiene los casos de prueba específicos para el campo name.
--data.py: Define los datos de prueba utilizados en las pruebas.
--sender_stand_request.py: Realiza las solicitudes a la API de Urban Groser.
--create_user_tests.py: Combina los otros archivos para ejecutar las pruebas.
+- data.py: Define los datos de prueba utilizados en las pruebas.
+- sender_stand_request.py: Realiza las solicitudes a la API de Urban Groser.
+- create_user_tests.py: Combina los otros archivos para ejecutar las pruebas.
 # Contribuciones:
 - Las contribuciones al proyecto son bienvenidas. Si estás interesado en contribuir, puedes seguir los siguientes pasos:
 
