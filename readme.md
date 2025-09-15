@@ -1,4 +1,4 @@
-# Pruebas para el parámetro firstName al crear un/a usuario/a en [urban groser]
+# Pruebas para el parámetro firstName al crear un/a usuario/a en [urban grocer]
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
 - Ejecuta todas las pruebas con el comando pytest.
 # Este proyecto tiene como objetivo realizar pruebas automatizadas exhaustivas para la aplicación Urban Groser, centrándose en la validación del campo name durante la creación y actualización de usuarios. La estrategia de prueba implementada incluye tanto casos de prueba positivos como negativos.
