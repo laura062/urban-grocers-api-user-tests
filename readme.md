@@ -4,8 +4,10 @@
 
 # Pruebas positivas:
 - Verifican la funcionalidad correcta del campo name con datos de entrada válidos.
+
 # Pruebas negativas:
 - Identifican vulnerabilidades y aseguran la robustez del campo con datos inválidos o maliciosos.
+
 # Tecnologías Utilizadas:
 - Pytest: Framework de pruebas para Python.
 - Requests: Biblioteca para realizar solicitudes HTTP.
@@ -15,13 +17,13 @@
 - Ejecuta todas las pruebas con el comando pytest.
 
 # Estructura del Proyecto:
-- tests.py: Contiene los casos de prueba específicos para el campo name.
+- configuration:contiene la URL del servidor y las APIs.
 - data.py: Define los datos de prueba utilizados en las pruebas.
 - sender_stand_request.py: Realiza las solicitudes a la API de Urban Groser.
 - create_user_tests.py: Combina los otros archivos para ejecutar las pruebas.
+
 # Contribuciones:
 - Las contribuciones al proyecto son bienvenidas. Si estás interesado en contribuir, puedes seguir los siguientes pasos:
-
 - Forkea el repositorio en GitHub.
 - Clona el repositorio forkeado en tu máquina local.
 - Haz tus cambios.

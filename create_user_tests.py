@@ -85,7 +85,6 @@ def test_create_user_empty_first_name_get_error_response():
     user_body = get_user_body("")
     negative_assert_no_first_name(user_body)
 
-
 #10prueba negativa
 def test_create_user_number_type_first_name_get_error_response():
     user_body = get_user_body(12)
